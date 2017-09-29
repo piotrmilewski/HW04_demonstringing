@@ -8,6 +8,7 @@
 #include <string.h>
 
 int main(){
+
     char *src = "Hi, I'm the original string!";
     char dest[250] = "Who did you say I was? Am I some science guy?";
     //char dest[250] = "";
